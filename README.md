@@ -1,1 +1,1 @@
-A Russian roulette game
+A Russian roulette game made for Windows
